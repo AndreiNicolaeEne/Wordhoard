@@ -1,0 +1,16 @@
+Tenant: Apinun, bos.
+Landlord: Apinun, yu stap orait?
+Tenant: Mi stap oraet tasol, san i hatpela tumas tude. Mi wokwok liklik long rot i kam.
+Landlord: Yes, em olsem oltaim long dispela mun. Yu laik kisim wanpela kap kofi pastaim?
+Tenant: Nogat, tenkyu, mi mas go bek long wok bihain. Tasol mi laik toktok liklik long yu, long rent bilong haus.
+Landlord: Orait, yu toktok, mi harim.
+Tenant: Mi stap long haus bilong yu tripela yia nau, na mi save pei stret olgeta taim, i no gat wanpela taim mi les long pei. Tasol dispela paip aninit long kisen em i no wok gut yet, wara i save lik i kam daun long plua taim bikpela ren i kam.
+Landlord: Mi save long dispela hap, bai mi lukim wanem samting mi ken wokim. Tasol long rent, mi no inap daunim.
+Tenant: Mi tingting, bos, olsem wanpela faiv i go daun, twenti pesen.
+Landlord: Twenti pesen, em i bikpela moa yet. Mi ken daunim tenpela pesen tasol.
+Tenant: Tenpela em i liklik tumas, taim mi lukim olsem mi bin stap gut long yu longtaim, na dispela paip samting i stap nogut inap longpela taim nau.
+Landlord: Mi harim yu, tasol yumi tupela save, prais bilong olgeta samting i go antap, mi tu i mas bekim takis bilong graun.
+Tenant: Mi save tu, tasol mipela wantaim ol pikinini, mipela i mas skelim mani long skul na kaikai.
+Landlord: Orait, mi no inap tok stret nau. Larim mi tingting gut pastaim, bai mi tokim yu long dispela wik, bihain long mi lukim buk bilong mi.
+Tenant: Orait, bos, em i orait long mi. Mi wet long tok bilong yu.
+Landlord: Gutpela. Na baimbai mi salim man bilong wokim paip tu.

@@ -1,0 +1,7 @@
+Buyer: Hey, what are you asking for this whole batch?
+Seller: Twelve, and honestly that's already a good price.
+Buyer: Twelve's kinda steep, some of these are soft on the bottom, I'll do eight.
+Seller: Eight's basically giving it away, I gotta eat too.
+Buyer: Okay, what if I take the whole crate instead of just one bag?
+Seller: ...ten, that's as low as I'm going.
+Buyer: Ten works, I'm good with that.
